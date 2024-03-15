@@ -15,13 +15,13 @@ We seek to identify __Top performing customers, products, channels of sales , re
 
 ![customers_behaviour_ss](https://github.com/FavryTech-Scholar/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163545305/b6386606-96dc-44cf-b647-dbec6dc5f512)
 
-2 sales performance by channel 
+2 sales performance by channel   <br> <br>
 ![sales_by_channel_ss](https://github.com/FavryTech-Scholar/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163545305/4fc21654-f804-428d-9f0a-0685bcca9d75)
 
-3 sales performance by region
+3 sales performance by region   <br> <br>
 ![sales_by_region_ss](https://github.com/FavryTech-Scholar/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163545305/09899598-31c5-43eb-8425-fcfe88e984fd)
 
-4 sales trend over the years
+4 sales trend over the years   <br> <br>
 ![sales_trends_over_the_years](https://github.com/FavryTech-Scholar/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163545305/4d17895f-ea1c-41fc-890e-03a3e7793764)
 
 
