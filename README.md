@@ -11,6 +11,22 @@ Various aspects of the company’s sales transaction data generated over the pas
 
 We seek to identify __Top performing customers, products, channels of sales , region , trends, and the overall performance__ of the company , to enable the company to make data-driven decisions/recommendations and to gain a deeper understanding of the company’s overall performance. 
 
+1 sales performance by customer <br> <br>
+
+![customers_behaviour_ss](https://github.com/FavryTech-Scholar/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163545305/b6386606-96dc-44cf-b647-dbec6dc5f512)
+
+2 sales performance by channel 
+![sales_by_channel_ss](https://github.com/FavryTech-Scholar/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163545305/4fc21654-f804-428d-9f0a-0685bcca9d75)
+
+3 sales performance by region
+![sales_by_region_ss](https://github.com/FavryTech-Scholar/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163545305/09899598-31c5-43eb-8425-fcfe88e984fd)
+
+4 sales trend over the years
+![sales_trends_over_the_years](https://github.com/FavryTech-Scholar/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163545305/4d17895f-ea1c-41fc-890e-03a3e7793764)
+
+
+
+
 ## Data Sources:
 __Sales Transaction Data :__ The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using __SQL codes.__ 
 
