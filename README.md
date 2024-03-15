@@ -1,5 +1,17 @@
 # Sales_Performance_Analysis_for_a_Telecom_Company_USA
 A Data Analysis Project that Analysed  the sales performance of a Telecommunication  company Based in the United State. The company’s sales transaction data generated over the past years was used for this  analysis.
+## Table of content
+[Project Overview:](#project-overview) <br> <br> 
+[ Data Sources](#data-sources) <br> <br>
+[ Data Analysis Tools Used](#data-analysis-tools-used)  <br> <br>
+[ Data Collection](#data-collection)  <br> <br>
+[Data Cleaning and Formatting](#data-cleaning-and-formatting)  <br> <br>
+[ Loading Data into Power BI](#loading-data-into-power-bI) <br> <br>
+[]()
+[]()
+[]()
+[]()
+
 
 
 ## Project Overview:
@@ -37,7 +49,7 @@ The results were downloaded and saved as  the following csv files below: <br> <b
 “revenue_generated_by_channels_all_time_v2.csv” <br> <br>
 “revenue_generated_by_region_all_time_v2.csv” <br> <br>
 “revenue_trend_over_the_years_v2.csv” <br> <br>
-## Data Analysis Tools Used:<br> <br>
+## Data Analysis Tools Used:
 - __SQL (PostgreSQL)__<br> <br>
 For Data Collection <br> <br>
 For Data Cleaning<br> <br>
