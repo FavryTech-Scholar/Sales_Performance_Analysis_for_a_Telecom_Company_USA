@@ -127,8 +127,7 @@ The Analysis Results is summarised as follows:
 - The company’s sales have been steadily increasing over the past years  with a noticeable peak in the holiday season in  2016, followed by a sudden decline in sales from 2017.  
  
 ## Recommendations: 
- Based on the findings/results of this  data analysis project:
-- I strongly  recommend the following actions : 
+__Based on the findings/results of this  data analysis project. I strongly  recommend the following actions:__
 - The company should focus on expanding and promoting the smartphone product category. 
 - The company should invest in marketing and promotions during peak sales season to maximise revenue. 
 - The company should implement a customer segmentation strategy to target smartphones and smartwatches customers effectively. 
