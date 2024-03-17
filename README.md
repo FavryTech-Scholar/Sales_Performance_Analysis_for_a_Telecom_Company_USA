@@ -6,11 +6,11 @@ A Data Analysis Project that Analysed  the sales performance of a Telecommunicat
 [ Data Analysis Tools Used](#data-analysis-tools-used)  <br> <br>
 [ Data Collection](#data-collection)  <br> <br>
 [Data Cleaning and Formatting](#data-cleaning-and-formatting)  <br> <br>
-[ Loading Data into Power BI](#loading-data-into-power-bI) <br> <br>
-[]()
-[]()
-[]()
-[]()
+[ Loading Data into Power BI:](#loading-data-into-power-bi) <br> <br>
+[ Exploratory Data Analysis:](#exploratory-data-analysis) <br> <br> 
+[Data Analysis](#data-analysis) <br> <br> 
+[ Results and Findings:](#results-and-findings)  <br> <br> 
+[Recommendations:](#recommendations) <br> <br>
 
 
 
@@ -68,7 +68,7 @@ For Creating For Interactive Report <br> <br>
 - I downloaded the result of my SQL Queries from the company’s database  as a csv file to my PC. 
 ## Loading Data into Power BI:
 - I loaded the downloaded csv files into Power BI for the purpose of Data Visualization and Building interactive dashboard/report
-## Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis:
 EDA involves exploring the sales data in order to answer some key questions such as : 
 - Who are the top 10 customers of the company ?
 - What particular products are the Top customers buying  ? 
